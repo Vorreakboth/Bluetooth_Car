@@ -2,8 +2,8 @@
 
 # Members:
   - Chhoeurn Vorreakboth
-  - Leu Kongsun
   - Seam Seak
+  - Leu Kongsun
   
   # Project:
   - Line Follower Robot
