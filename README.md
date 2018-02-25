@@ -1,9 +1,9 @@
 # Line Follower Robot
 
 # Members:
-  - Seam Seak
-  - Leu Kongsun
   - Chhoeurn Vorreakboth
+  - Leu Kongsun
+  - Seam Seak
   
 # Project:
   - Line Follower Robot
