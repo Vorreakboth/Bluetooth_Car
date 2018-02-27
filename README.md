@@ -4,6 +4,7 @@
   - Chhoeurn Vorreakboth
   - Leu Kongsun
   - Seam Seak
+  - Setha Rong
   
 # Project:
   - Line Follower Robot
