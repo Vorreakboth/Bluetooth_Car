@@ -13,8 +13,8 @@
   - Car drive follow the white line or black line
   - Remote using Bluetooth by Android device
   
-![alt text]()
+//![alt text]()
 
-![alt text]()
+//![alt text]()
 
-![alt text]()
+//![alt text]()
